@@ -16,6 +16,7 @@ public class Simple_Calculator {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //not useful for this app
     }
     
 }
