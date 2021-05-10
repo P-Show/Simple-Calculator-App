@@ -192,7 +192,7 @@ public class NewJFrame extends javax.swing.JFrame {
     private void t1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_t1ActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_t1ActionPerformed
-
+     //start
     private void subtractActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_subtractActionPerformed
         // TODO add your handling code here:
         int num1 = Integer.parseInt(t1.getText());
